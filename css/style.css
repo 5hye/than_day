@@ -1,0 +1,10 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color:#0B0B0D; top:0px; left:0px; z-index: 5px; position:absolute;
+}
+
+.night{top:0px; left:0px; z-index: -5px; position:absolute; width:1521px; height: 780px;}
+.night2{top:0px; left:0px; z-index: 20px; position:absolute; width:1521px; height: 780px;}
+
+    
